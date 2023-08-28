@@ -1,0 +1,32 @@
+/** @format */
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  width: 100vw;
+  background-color: rgb(185, 23, 23);
+  padding: 5px;
+  border: none;
+  border-radius: 40px;
+  margin-top: 40px;
+}
+/* .nav .active {
+  font-weight: 00;
+} */
+.nav a {
+  text-decoration: none;
+}
+*{
+  background-color: orangered;
+}
+.h{
+  background-color: rgb(185, 23, 23);
+  font-size: 30px;
+  font-weight: bolder;
+  color: whitesmoke;
+  font-style: oblique ;
+}
+h1{
+  margin-top: 10px;
+  color: palegoldenrod;
+}
